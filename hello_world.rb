@@ -1,1 +1,1 @@
-puts "Hello world! I see you!"
+puts "Hello world!"
